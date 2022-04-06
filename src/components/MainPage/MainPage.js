@@ -77,11 +77,10 @@ export const MainPage = () => {
             Dont buy, Adopt
           </h1>
           <br></br>
-          <p className="max-w-sm text-center text-darkGrayishBlue md:text-left">
-            Manage makes it simple for software teams to plan day-to-day tasks
-            while keeping the larger team goals in view. Manage makes it simple
-            for software teams to plan day-to-day tasks while keeping the larger
-            team goals in view.
+          <p className="max-w-sm text-center text-darkGrayishBlue md:text-left font-xl">
+            Pawsome is a project that aims to provide a facility through which
+            people who are looking for a pet for adoption can connect with the
+            pets that are available for adoption.
           </p>
           <br></br>
           <div className="flex justify-center md:justify-start">

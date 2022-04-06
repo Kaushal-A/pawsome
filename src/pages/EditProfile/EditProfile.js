@@ -12,9 +12,6 @@ export const EditProfile = () => {
   const aboutyou = React.createRef();
   const domains = React.createRef();
   const experiences = React.createRef();
-  const linkedin = React.createRef();
-  const portfolio = React.createRef();
-  const skills = React.createRef();
   const npwd = React.createRef();
   const cpwd = React.createRef();
 
@@ -75,8 +72,6 @@ export const EditProfile = () => {
               aboutYou: aboutyou.current.value,
               domain: domains.current.value,
               exp: Number(experiences.current.value),
-              linUrl: linkedin.current.value,
-              portLink: portfolio.current.value,
               password: npwd.current.value,
             },
             {
