@@ -8,19 +8,19 @@ export const LandingPage = () => {
   //   getData: [],
   // });
 
-  useEffect(() => {
-    axios
-      .get("https://samarthbackend.herokuapp.com/findSpecificJob?limit=6")
-      .then((response) => {
-        setData({
-          getData: response.data.data.jobs,
-        });
-        console.log(response.data.data.jobs);
-      })
-      .catch((err) => {
-        console.log(err);
-      });
-  }, []);
+  // useEffect(() => {
+  //   axios
+  //     .get("https://samarthbackend.herokuapp.com/findSpecificJob?limit=6")
+  //     .then((response) => {
+  //       setData({
+  //         getData: response.data.data.jobs,
+  //       });
+  //       console.log(response.data.data.jobs);
+  //     })
+  //     .catch((err) => {
+  //       console.log(err);
+  //     });
+  // }, []);
 
   return (
     <div className="mt-16">
