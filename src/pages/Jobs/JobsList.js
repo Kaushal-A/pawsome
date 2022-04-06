@@ -35,7 +35,7 @@ export const JobsList = () => {
           <div className="container mx-5 my-2">
             <div className="flex flex-wrap p-4 bg-green-100 rounded-xl">
               <div>
-                <img src={DogJerry} className="h-40 mr-4 rounded-xl"></img>
+                <img alt="" src={DogJerry} className="h-40 mr-4 rounded-xl"></img>
               </div>
               <div className="flex flex-wrap flex-col mx-5">
                 <div className="mt-3 text-3xl font-bold tracking-normal text-black">
