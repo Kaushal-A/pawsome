@@ -4,9 +4,9 @@ import dog from "../../assets/dog.svg";
 import axios from "axios";
 
 export const LandingPage = () => {
-  const [data, setData] = useState({
-    getData: [],
-  });
+  // const [data, setData] = useState({
+  //   getData: [],
+  // });
 
   useEffect(() => {
     axios

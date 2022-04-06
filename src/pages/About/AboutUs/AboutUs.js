@@ -4,7 +4,6 @@ import "./AboutUs.css";
 import CombinedImage from "../../../assets/CombinedImage.svg";
 import Left_One from "../../../assets/Left_One.svg";
 import Middle from "../../../assets/Middle.svg";
-import howtoUse from "../../About/Categories/Categories";
 export const AboutUs = () => {
   return (
     <>
