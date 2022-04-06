@@ -1,7 +1,6 @@
 import React from "react";
 import "./AboveFooter.css";
 import Standing from "../../assets/Standing.svg";
-import Easy from "../../assets/Easy.svg";
 
 export const AboveFooter = () => {
   return (

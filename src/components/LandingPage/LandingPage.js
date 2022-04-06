@@ -35,7 +35,7 @@ export const LandingPage = () => {
           <div class="flex flex-nowrap lg:ml-40 md:ml-20 ml-10 ">
             <div className="inline-block px-3">
               <div className="w-64 h-75 max-w-xs overflow-hidden rounded-lg shadow-md bg-white hover:shadow-xl transition-shadow duration-300 ease-in-out">
-                <img src={dog} className="p-4"></img>
+                <img alt="" src={dog} className="p-4"></img>
                 <div className="align-center">
                   <h1 className="p-3 mx-3">Jerry</h1>
                   <p className="p-3 ml-3">6 Months</p>
@@ -44,7 +44,7 @@ export const LandingPage = () => {
             </div>
             <div className="inline-block px-3">
               <div className="w-64 h-75 max-w-xs overflow-hidden rounded-lg shadow-md bg-white hover:shadow-xl transition-shadow duration-300 ease-in-out">
-                <img src={dog} className="p-4"></img>
+                <img alt="" src={dog} className="p-4"></img>
                 <div className="align-center">
                   <h1 className="p-3 mx-3">Jerry</h1>
                   <p className="p-3 ml-3">6 Months</p>
@@ -53,7 +53,7 @@ export const LandingPage = () => {
             </div>
             <div className="inline-block px-3">
               <div className="w-64 h-75 max-w-xs overflow-hidden rounded-lg shadow-md bg-white hover:shadow-xl transition-shadow duration-300 ease-in-out">
-                <img src={dog} className="p-4"></img>
+                <img alt="" src={dog} className="p-4"></img>
                 <div className="align-center">
                   <h1 className="p-3 mx-3">Jerry</h1>
                   <p className="p-3 ml-3">6 Months</p>
@@ -62,7 +62,7 @@ export const LandingPage = () => {
             </div>
             <div className="inline-block px-3">
               <div className="w-64 h-75 max-w-xs overflow-hidden rounded-lg shadow-md bg-white hover:shadow-xl transition-shadow duration-300 ease-in-out">
-                <img src={dog} className="p-4"></img>
+                <img alt="" src={dog} className="p-4"></img>
                 <div className="align-center">
                   <h1 className="p-3 mx-3">Jerry</h1>
                   <p className="p-3 ml-3">6 Months</p>
@@ -71,7 +71,7 @@ export const LandingPage = () => {
             </div>
             <div className="inline-block px-3">
               <div className="w-64 h-75 max-w-xs overflow-hidden rounded-lg shadow-md bg-white hover:shadow-xl transition-shadow duration-300 ease-in-out">
-                <img src={dog} className="p-4"></img>
+                <img alt="" src={dog} className="p-4"></img>
                 <div className="align-center">
                   <h1 className="p-3 mx-3">Jerry</h1>
                   <p className="p-3 ml-3">6 Months</p>
