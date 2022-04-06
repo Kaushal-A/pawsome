@@ -1,21 +1,21 @@
-import React, { useState } from "react";
+import React from "react";
 import Left from "../../assets/g12.svg";
-import axios from "axios";
-import { useNavigate } from "react-router-dom";
+
+// import { useNavigate } from "react-router-dom";
 
 export const MainPage = () => {
-  const searchjob = React.createRef();
-  const searchlocation = React.createRef();
-  let navigate = useNavigate();
-  function navigation() {
-    navigate("/SearchJobs");
-  }
+  // const searchjob = React.createRef();
+  // const searchlocation = React.createRef();
+  // let navigate = useNavigate();
+  // function navigation() {
+  //   navigate("/SearchJobs");
+  // }
 
-  const [data, setData] = useState({
-    getData: [],
-  });
+  // const [data, setData] = useState({
+  //   getData: [],
+  // });
 
-  console.log(data);
+  // console.log(data);
 
   // const handleSubmit = (e) => {
   //   e.preventDefault();

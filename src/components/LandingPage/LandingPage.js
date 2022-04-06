@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./LandingPage.css";
 import dog from "../../assets/dog.svg";
-import axios from "axios";
+
 
 export const LandingPage = () => {
   // const [data, setData] = useState({
