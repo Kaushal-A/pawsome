@@ -2,6 +2,7 @@ import "./Categories.css";
 import Visually from "../../../assets/Visually.svg";
 import Hearing from "../../../assets/Hearing.svg";
 import WheelChair from "../../../assets/WheelChair.svg";
+
 import { Link } from "react-router-dom";
 import React, { useState, useEffect } from "react";
 import axios from "axios";
