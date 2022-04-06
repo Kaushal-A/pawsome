@@ -43,7 +43,7 @@ export const Categories = () => {
         <Link to="/Jobs" state={{ disabilityType: "visually impaired" }}>
           <div class="max-w-sm rounded-2xl overflow-hidden border-green-700 border-2 mt-8">
             <div class="px-6 py-4">
-              <img src={Visually} alt="img" className="float-center ml-28" />
+              <img src={Hearing} alt="img" className="float-center ml-28" />
               <div class="font-bold text-2xl mb-2 mt-4 text-center text-green-700">
                 Choose a Pet
               </div>
@@ -57,7 +57,7 @@ export const Categories = () => {
         <Link to="/Jobs" state={{ disabilityType: "hard of hearing" }}>
           <div class="max-w-sm rounded-2xl overflow-hidden border-green-700 border-2 mt-8">
             <div class="px-6 py-4">
-              <img src={Hearing} alt="img" className="float-center ml-28" />
+              <img src={Visually} alt="img" className="float-center ml-28" />
               <div class="font-bold text-2xl mb-2 mt-4 text-center text-green-700">
                 Contact Shelter Home
               </div>

@@ -72,15 +72,15 @@ export const MainPage = () => {
   return (
     <section id="hero">
       <div className="container flex flex-col-reverse items-center px-6 mx-auto mt-10 space-y-0 md:space-y-0 md:flex-row">
-        <div className="flex flex-col mb-32  md:w-1/2 px-10 py-10 mx-4 my-6 py-4">
+        <div className="flex flex-col mb-32  md:w-1/2 px-10 py-10 mx-4 my-6 py-4 ml-10">
           <h1 className="max-w-md text-4xl font-bold text-center md:text-5xl md:text-left my-7 py-3">
             Dont buy, Adopt
           </h1>
           <br></br>
-          <p className="max-w-sm text-center text-darkGrayishBlue md:text-left font-xl">
-            Pawsome is a project that aims to provide a facility through which
-            people who are looking for a pet for adoption can connect with the
-            pets that are available for adoption.
+          <p className="max-w-sm text-center text-darkGrayishBlue md:text-left text-2xl">
+            Surf through our website and find a companion who follows you in all
+            walks of your life. Be it be a Loyal paw or an adorable one. You can
+            find them all here !!
           </p>
           <br></br>
           <div className="flex justify-center md:justify-start">

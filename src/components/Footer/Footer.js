@@ -76,7 +76,7 @@ export const Footer = () => {
             <ul className="mb-8 space-y-2 text-sm list-none">
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg mr-14"
+                  className="text-green-600 hover:text-green-800 text-lg mr-14"
                   href="/dashboard"
                 >
                   About Us
@@ -84,7 +84,7 @@ export const Footer = () => {
               </li>
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg mr-12"
+                  className="text-green-600 hover:text-green-800 text-lg mr-12"
                   href="/dashboard"
                 >
                   Our Mission
@@ -92,7 +92,7 @@ export const Footer = () => {
               </li>
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg mr-12"
+                  className="text-green-600 hover:text-green-800 text-lg mr-12"
                   href="/dashboard"
                 >
                   Contact Us
@@ -100,7 +100,7 @@ export const Footer = () => {
               </li>
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg mr-20"
+                  className="text-green-600 hover:text-green-800 text-lg mr-20"
                   href="/dashboard"
                 >
                   Blog
@@ -115,7 +115,7 @@ export const Footer = () => {
             <ul className="mb-8 space-y-2 text-sm list-none">
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg mr-14"
+                  className="text-green-600 hover:text-green-800 text-lg mr-14"
                   href="/dashboard"
                 >
                   Help a pet
@@ -123,7 +123,7 @@ export const Footer = () => {
               </li>
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg mr-12"
+                  className="text-green-600 hover:text-green-800 text-lg mr-12"
                   href="/dashboard"
                 >
                   Report a pet in need
@@ -131,7 +131,7 @@ export const Footer = () => {
               </li>
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 mr-12 text-lg"
+                  className="text-green-600 hover:text-green-800 mr-12 text-lg"
                   href="/dashboard"
                 >
                   Help
@@ -146,7 +146,7 @@ export const Footer = () => {
             <ul className="mb-8 space-y-2 text-sm list-none">
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg"
+                  className="text-green-600 hover:text-green-800 text-lg"
                   href="/dashboard"
                 >
                   Your account
@@ -154,7 +154,7 @@ export const Footer = () => {
               </li>
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg"
+                  className="text-green-600 hover:text-green-800 text-lg"
                   href="/dashboard"
                 >
                   Find a pet
@@ -162,7 +162,7 @@ export const Footer = () => {
               </li>
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg"
+                  className="text-green-600 hover:text-green-800 text-lg"
                   href="/dashboard"
                 >
                   Donate
@@ -170,7 +170,7 @@ export const Footer = () => {
               </li>
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg"
+                  className="text-green-600 hover:text-green-800 text-lg"
                   href="/dashboard"
                 >
                   Chat with us
@@ -178,7 +178,7 @@ export const Footer = () => {
               </li>
               <li className="text-left">
                 <a
-                  className="text-indigo-600 hover:text-indigo-800 text-lg"
+                  className="text-green-600 hover:text-green-800 text-lg"
                   href="/dashboard"
                 >
                   Help
@@ -189,8 +189,8 @@ export const Footer = () => {
         </div>
       </div>
       <div className="flex justify-center">
-        <p className="text-violet-600 hover:text-violet-800">
-          All rights reserved by @Petify 2022
+        <p className="text-green-600 hover:text-violet-800">
+          All rights reserved by @Pawsome 2022 HackerSenpai
         </p>
       </div>
     </footer>

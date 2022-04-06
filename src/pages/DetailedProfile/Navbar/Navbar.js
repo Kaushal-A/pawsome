@@ -34,8 +34,8 @@ export const Navbar = ({ toggle }) => {
         </svg>
       </div>
       <div className="pr-8 md:flex hidden">
-        <Link to="/AboutUs" className="mt-1">
-          <span className="text-xl font-bold text-indigo-700">About Us</span>
+        <Link to="/dashboard" className="mt-1">
+          <span className="text-xl font-bold text-green-700">About Us</span>
         </Link>
         <Link to="/View" className="mt-1">
           <span className="text-xl font-bold text-blac ml-8">Pets</span>
